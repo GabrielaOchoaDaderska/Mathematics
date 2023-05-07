@@ -8,7 +8,7 @@
 ## ENG
 > The most famous mathematical formulas/theorems written in Java.
 
-**This code creates a graphical calculator of Viète's formulas in Java. The calculator allows the user to enter the values of A, B and C and then calculate the values of X1 and X2 according to Viète's formula. The user interface consists of three text boxes for entering the values A, B and C and two text boxes for displaying the X1 and X2 values. The application also includes a button to calculate the results.**
+** This code creates a graphical calculator of Viète's formulas in Java. The calculator allows the user to enter the values of A, B and C and then calculate the values of X1 and X2 according to Viète's formula. The user interface consists of three text boxes for entering the values A, B and C and two text boxes for displaying the X1 and X2 values. The application also includes a button to calculate the results. **
 
 ### Code Result - [VietaCalculator.java](https://github.com/GabrielaOchoaDaderska/Mathematics/blob/main/VietaCalculator.java)
 
